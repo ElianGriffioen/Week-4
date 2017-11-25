@@ -1,0 +1,4 @@
+"0","# Define a plot with the range of confidence intervals at the x-axis and the"
+"0","# dataset numbers at the y-axis"
+"0","plot(range(confidence.intervals), c(0, n), type = ""n"","
+"0","     xlab = ""Confidence interval"", ylab = ""Dataset"")"

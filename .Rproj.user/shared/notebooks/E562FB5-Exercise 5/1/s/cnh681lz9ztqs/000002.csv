@@ -1,0 +1,8 @@
+"0","# set seed for reproducibility"
+"0","set.seed(123456789)"
+"0","# create list to store datasets"
+"0","datasets<-list()"
+"0","# sample hundred times from standard normal distribution sample of size 100"
+"0","for(i in 1:100){"
+"0","datasets[[i]]<-rnorm(100,mean=0,sd=1)"
+"0","}"

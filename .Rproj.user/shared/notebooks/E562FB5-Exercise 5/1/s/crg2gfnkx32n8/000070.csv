@@ -1,0 +1,4 @@
+"0","# Add a line segment for each confidence interval"
+"0","for(i in 1:100){"
+"0","  segments(confidence.intervals[i,1],i,confidence.intervals[i,2],i,col=""darkorange"")"
+"0","}"

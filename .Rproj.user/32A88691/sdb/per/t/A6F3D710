@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# uitleg Gerko\n\n# functies aanroepen\nrequire(mice)\n\nsym\n\nmice:::sym\n\n\n# floating errors\n3-2.9\n\n(3-2.9)-0.1\n\n(3-2.9)==0.1\n\nall.equal(3-2.9,0.1)\n\n## markdown\n\n# you can use warning=FALSE en message=FALSE om deze niet weer te geven\n",
+    "created" : 1511168859502.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2707958137",
+    "id" : "A6F3D710",
+    "lastKnownWriteTime" : 1511192292,
+    "last_content_update" : 1511192292774,
+    "path" : "~/Documents/Documents/Universiteit/Master/MSBBSS/Markup languages and reproducible programming/Week 4/feedback Gerko.R",
+    "project_path" : "feedback Gerko.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
